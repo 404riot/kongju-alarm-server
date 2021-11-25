@@ -18,6 +18,7 @@ public class DepartmentCtrl  {
         int pageIndex = 1;
         // 무너가 바또
         // 또 뭔가 바뀜
+        // 코드 수정
 
         while (pageIndex <= 100) {
 
