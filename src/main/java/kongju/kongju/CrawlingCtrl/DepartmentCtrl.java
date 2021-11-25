@@ -16,6 +16,7 @@ public class DepartmentCtrl  {
         String endUrl;
         String allUrl;
         int pageIndex = 1;
+        // 무너가 바꿧
 
         while (pageIndex <= 100) {
 
